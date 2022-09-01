@@ -4,4 +4,4 @@ NPM     : 206752395
 
 Kelas   : A
 
-Hobi    : Main main
+Hobi    : Tidur
